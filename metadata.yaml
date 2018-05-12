@@ -1,0 +1,30 @@
+_repo: The-Story-of-Crisco_13286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Neil, Marion Harris
+    gutenberg_agent_id: '4977'
+    url: http://www.gutenberg.org/2009/agents/4977
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+tableOfContents: The story of Crisco -- Things to remember -- Hints to young cooks
+  -- How to choose foods -- Methods of cooking -- Time table for cooking -- The art
+  of carving -- Soups -- Fish -- Meats -- Vegetables -- Salads -- Puddings -- Sandwiches
+  -- Pastries -- Breads -- Cakes -- Vegetarian dishes -- Eggs -- Candies -- Calendar
+  of dinners.
+title: The Story of Crisco
+url: http://www.gutenberg.org/ebooks/13286
