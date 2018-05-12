@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4977'
     url: http://www.gutenberg.org/2009/agents/4977
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13286#The-Story-of-Crisco
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
